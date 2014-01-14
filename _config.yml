@@ -1,4 +1,5 @@
-name: SeattleNERD (Neighbors Encouraging Reasonable Development)
+name: SeattleNERD
+name-exp: SeattleNERD (Neighbors Encouraging Reasonable Development)
 markdown: redcarpet
 pygments: true
 
