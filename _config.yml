@@ -1,8 +1,0 @@
-name: SeattleNERD (Neighbors Encouraging Reasonable Development)
-markdown: redcarpet
-pygments: true
-
-timezone: America/Los_Angeles
-
-redcarpet:
-  extensions: [tables, no_intra_emphasis, autolink]
